@@ -1,0 +1,16 @@
+Bayern Munich,Germany
+SSC Napoli,Italy
+Inter Milan,Italy
+CSKA Moscow,Russia
+SL Benfica,Portugal
+FC Basel,Switzerland
+Real Madrid,Spain
+Olympic Lyon,France
+Chelsea FC,England
+Bayer Leverkusen,Germany
+Arsenal,England
+Olympic Marseille,France
+APOEL,Cyprus
+Zenit Saint Petersburg,Russia
+FC Barcelona,Spain
+AC Milan,Italy

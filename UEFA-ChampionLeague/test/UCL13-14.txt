@@ -1,0 +1,16 @@
+Manchester United,England
+Bayer Leverkusen,Germany
+Real Madrid,Spain
+Galatasaray,Turkey
+Paris Saint-Germain,France
+Olympiacos,Greece
+Bayern Munich,Germany
+Manchester City,England
+Chelsea FC,England
+Schalke 04,Germany
+Borussia Dortmund,Germany
+Arsenal,England
+Atletico Madrid,Spain
+Zenit Saint Petersburg,Russia
+FC Barcelona,Spain
+AC Milan,Italy

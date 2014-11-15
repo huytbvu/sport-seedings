@@ -1,0 +1,16 @@
+Paris Saint-Germain,France
+FC Porto,Portugal
+Schalke 04,Germany
+Arsenal,England
+Malaga CF,Spain
+AC Milan,Italy
+Borussia Dortmund,Germany
+Real Madrid,Spain
+Juventus,Italy
+Shaktar Donetsk,Ukraine
+Bayern Munich,Germany
+Valencia,Spain
+FC Barcelona,Spain
+Celtic FC,Scotland
+Manchester United,England
+Galatasaray,Turkey
