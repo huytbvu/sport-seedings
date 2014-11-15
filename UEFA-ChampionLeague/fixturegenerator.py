@@ -1,5 +1,5 @@
 # UEFA Champion League Seeding for Knock-out Round
-# by Huy Vu
+# by Huy Vu (huytbvu)
 """
    UEFA Champion League is the most prestiged international
    football tournament for clubs in Europe which attracts
